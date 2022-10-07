@@ -1,0 +1,1 @@
+Tadi saya belajar tentang variabel , tipe data , function/fungsi , Operator Aritmatematika , Operator Pembanding , Conditional , Perulangan/Looping.
