@@ -1,0 +1,1 @@
+Belajar OOP  yang didalam nya ada atribut itu apa method itu apa , dan kenapa kita perlu belajar OOP.
