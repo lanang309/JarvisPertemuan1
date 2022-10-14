@@ -1,0 +1,1 @@
+Belajar Javascript tentang mengenal Tipe data , tipe cindisional ,looping, function, array, dan object
